@@ -1,0 +1,17 @@
+C:\GitHub\NLayerWebAPI\NLayer.Service\bin\Debug\net6.0\NLayer.Service.deps.json
+C:\GitHub\NLayerWebAPI\NLayer.Service\bin\Debug\net6.0\NLayer.Service.dll
+C:\GitHub\NLayerWebAPI\NLayer.Service\bin\Debug\net6.0\NLayer.Service.pdb
+C:\GitHub\NLayerWebAPI\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+C:\GitHub\NLayerWebAPI\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.dll
+C:\GitHub\NLayerWebAPI\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\GitHub\NLayerWebAPI\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+C:\GitHub\NLayerWebAPI\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+C:\GitHub\NLayerWebAPI\NLayer.Service\obj\Debug\net6.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\NLayerWebAPI\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfoInputs.cache
+C:\GitHub\NLayerWebAPI\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfo.cs
+C:\GitHub\NLayerWebAPI\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CoreCompileInputs.cache
+C:\GitHub\NLayerWebAPI\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete
+C:\GitHub\NLayerWebAPI\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
+C:\GitHub\NLayerWebAPI\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
+C:\GitHub\NLayerWebAPI\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+C:\GitHub\NLayerWebAPI\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll
