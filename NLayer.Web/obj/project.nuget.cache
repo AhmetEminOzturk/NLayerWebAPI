@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xnutLU/DHz5WVRrWkylEafdlVZK6wMpcbmWB6ldqZqCs/ynToGclcZIfKUir2x3qAOAf6Rh39Bk78UxV5Yng6Q==",
+  "dgSpecHash": "FcYXJKPRm6DB8QAwsIO7y1CqMvrTcRQACIyi0VTnA/2smhQSWmLMw06Tx6805WpK+4yo00ab1os8sAe9lorH2Q==",
   "success": true,
   "projectFilePath": "C:\\GitHub\\NLayerWebAPI\\NLayer.Web\\NLayer.Web.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\eAo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\eAo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\eAo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\eAo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\eAo\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\eAo\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\eAo\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.24\\microsoft.entityframeworkcore.6.0.24.nupkg.sha512",
