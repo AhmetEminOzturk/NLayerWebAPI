@@ -77,3 +77,5 @@ C:\GitHub\NLayerWebAPI\NLayer.API\bin\Debug\net6.0\AutoMapper.Extensions.Microso
 C:\GitHub\NLayerWebAPI\NLayer.API\bin\Debug\net6.0\FluentValidation.dll
 C:\GitHub\NLayerWebAPI\NLayer.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\GitHub\NLayerWebAPI\NLayer.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\GitHub\NLayerWebAPI\NLayer.API\bin\Debug\net6.0\Autofac.dll
+C:\GitHub\NLayerWebAPI\NLayer.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
