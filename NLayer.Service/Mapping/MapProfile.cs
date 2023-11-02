@@ -1,11 +1,6 @@
 ﻿using AutoMapper;
 using NLayer.Core.DTOs;
 using NLayer.Core.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace NLayer.Service.Mapping
 {
@@ -17,7 +12,7 @@ namespace NLayer.Service.Mapping
             CreateMap<ProductUpdateDto, Product>();
             CreateMap<Category, CategoryDto>().ReverseMap();
             CreateMap<ProductFeature, ProductFeatureDto>().ReverseMap();
-            CreateMap<Product, ProductWithCategoryDto > ().ReverseMap();
+            CreateMap<Product, ProductWithCategoryDto>().ReverseMap();
             CreateMap<Category, CategoryWithProductsDto>();
         }
     }
